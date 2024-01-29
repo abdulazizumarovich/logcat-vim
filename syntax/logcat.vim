@@ -12,7 +12,7 @@ highlight default link androidLogError Error
 highlight default link androidLogFatal Error
 highlight default link androidLogWarning WarningMsg
 highlight default link androidLogInfo Normal
-highlight default link androidLogDebug Visual
+highlight default link androidLogDebug Underlined
 highlight default link androidLogVerbose Comment
 
 " Enable syntax highlighting for Android logcat logs
